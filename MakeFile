@@ -1,0 +1,5 @@
+#Common Inputs
+Module = git
+Version = 0.0.0
+Author = rajeev-m
+Mail To = rajeev-m@moving-picture.com
